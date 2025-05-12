@@ -34,7 +34,7 @@ export default function Index() {
                 RSS
               </Link>
               {" "}or follow me on{" "}
-              <Link href="https://linkedin.com/in/umairjibran" className="text-blue-400 hover:text-blue-300 underline">
+              <Link href="https://linkedin.com/in/syed-farhan-haseeb" className="text-blue-400 hover:text-blue-300 underline">
                 LinkedIn
               </Link>
               {" "}to stay updated.

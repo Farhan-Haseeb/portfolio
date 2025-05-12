@@ -44,17 +44,19 @@ export default function PortfolioDetail({ item }: { item: IPortfilioItem }) {
       <Card
         className="w-full font-mono"
         cover={
-          <Image
-            width={300}
-            height={200}
-            alt={`${item.name}'s logo`}
-            src={`/assets/logos/${item.logo}.webp`}
-            loading="lazy"
-            priority={false}
-            placeholder="blur"
-            blurDataURL={`/assets/loading.webp`}
-            className="logo"
-          />
+          <div className="h-48 w-72 p-2 flex justify-center items-center content-center">
+            <Image
+              width={200}
+              height={100}
+              alt={`${item.name}'s logo`}
+              src={`/assets/logos/${item.logo}.webp`}
+              loading="lazy"
+              priority={false}
+              placeholder="blur"
+              blurDataURL={`/assets/loading.webp`}
+              className="logo object-fill m-auto"
+            />
+          </div>
         }
         actions={actions}
       >

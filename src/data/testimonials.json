@@ -1,50 +1,50 @@
 [
   {
-    "name": "Waleed Waseem",
-    "designationAtTime": "Co-founder and CEO",
+    "name": "Hassam Siddiqui",
+    "designationAtTime": "Tech Lead",
     "employerAtTime": "Productbox",
-    "linkedin": "waleed-waseem-2b625270",
-    "testimonial": "I had the privilege of working with Umair Jibran for over two years, and it is without a doubt that he is one of the most talented backend resources I've had the pleasure of collaborating with. Umair not only possesses exceptional technical skills but also carries himself with a remarkable level of professionalism, setting a clear standard for what a Professional Engineer should be.",
-    "email": "waleed@productbox.dev",
+    "linkedin": "hassams",
+    "testimonial": "I've had the pleasure of working with Syed Farhan Haseeb and have always been impressed by his depth as a full stack developer. He’s not only technically strong across React, Node, Python, and custom LLMs, but also brings a thoughtful, ownership-driven approach to problem-solving. His passion for performance and detail—like optimizing SQL for milliseconds—sets him apart. Farhan is hardworking, innovative, and someone whose insight always adds value.",
+    "email": "hassam363@gmail.com",
     "employerSite": "https://productbox.dev",
-    "twitter": "leedz",
-    "image": "/assets/images/waleed-waseem.webp",
-    "personalSite": null
-  },
-  {
-    "name": "Farqaleet Kirmani",
-    "designationAtTime": "Co-founder",
-    "employerAtTime": "meraID",
-    "linkedin": "farqaleetkirmani",
-    "email": null,
-    "testimonial": "I highly recommend Umair as an exceptional resource for any project or team. He joined our project with limited experience but quickly proved himself as highly dedicated and a fast learner. He continuously demonstrated a remarkable work ethic, taking ownership for the project tasks and challenges even when they were not his direct responsibility. He constantly strove for excellence.",
-    "employerSite": "https://meraid.pk",
     "twitter": null,
-    "image": "/assets/images/farqaleet-kirmani.webp",
+    "image": "/assets/images/hassam.webp",
+    "personalSite": "https://hassams.dev"
+  },
+  {
+    "name": "Hassan B",
+    "designationAtTime": "Product Manager of Clinical Solutions at Caremerge",
+    "employerAtTime": "Netsmart",
+    "linkedin": "hassan-b-6a1524107",
+    "email": null,
+    "testimonial": "Farhan has been an exceptional collaborator. Throughout our engagement, he operated not as an external contractor, but as a seamless extension of our internal team. Leveraging modern JavaScript frameworks, he played a key role in designing and developing sophisticated, printable medical assessments tailored to our specific operational needs. His technical expertise, attention to detail, and commitment to delivering high-quality solutions consistently exceeded our expectations. Farhan approaches each project with a strong sense of ownership and professionalism — a truly valuable asset to any team.",
+    "employerSite": "https://www.ntst.com/",
+    "twitter": null,
+    "image": "/assets/images/hassan_b.webp",
     "personalSite": null
   },
   {
-    "name": "Saif Ullah Sajid",
-    "designationAtTime": "Engineering Lead",
-    "employerAtTime": "Productbox",
-    "linkedin": "saifsajid99",
-    "testimonial": "Jibran is someone who stops at nothing. Once he is challenged to do a task, he delivers the best output no matter what. Being a manager jibran was the easiest engineer to manage. He is always humble and friendly. His learning attitude is amazing and he experiments with the top tech all the time. He is way ahead of his time in his professional journey.",
-    "email": null,
-    "personalSite": "https://saifullahsajid.com/",
-    "employerSite": "https://productbox.dev",
-    "twitter": "saifcodes",
-    "image": "/assets/images/saif-sajid.webp"
-  },
-  {
-    "name": "Terri O'Sullivan",
-    "designationAtTime": "CEO",
-    "employerAtTime": "Waypoint",
-    "linkedin": "terrisullivan",
-    "testimonial": "I enjoyed working with Jibran and ProductBox while building a new technology application in 2023 and 2024. He is knowledgeable, organized, responsive, and a great software engineer. Not to mention, he is a joy to work with, and I highly recommend him.",
+    "name": "Hassan Khan",
+    "designationAtTime": "Tech Lead",
+    "employerAtTime": "eyewa",
+    "linkedin": "hassan-khan-b79289121",
+    "testimonial": "Farhan was an invaluable MERN stack developer during his time under my direct management at productbox consistently demonstrating exceptional technical skills in MongoDB, Express.js, React, and Node.js, as evidenced by his crucial contributions in different projects. Beyond his technical prowess, Farhan was a highly collaborative and communicative team player with a proactive approach to problem-solving and a strong work ethic; he was always willing to assist colleagues, share knowledge, and proactively identify solutions, while also demonstrating a strong aptitude for learning new technologies and methodologies, making him a versatile and highly recommended asset to any development team.",
     "email": null,
     "personalSite": null,
-    "employerSite": "https://waypointconverts.com/",
+    "employerSite": "https://eyewa.com/ae-en",
     "twitter": null,
-    "image": "/assets/images/terri-sullivan.webp"
+    "image": "/assets/images/hassan_khan.webp"
+  },
+  {
+    "name": "Mehmood Ul Hassan",
+    "designationAtTime": "Software Engineer",
+    "employerAtTime": "Emumba",
+    "linkedin": "mhassanrahi",
+    "testimonial": "Farhan is a talented engineer with expertise across multiple technologies. When I joined Productbox as a fresh grad, he helped me get up to speed with React Native quickly and how to contribute to real projects. He's great at breaking down tricky problems, love learning new tech, and actually get excited about tough challenges. Any team would benefit from his dedication and innovative mindset.",
+    "email": null,
+    "personalSite": null,
+    "employerSite": "https://emumba.com",
+    "twitter": null,
+    "image": "/assets/images/mehmood.webp"
   }
 ]

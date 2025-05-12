@@ -1,74 +1,98 @@
 [
   {
-    "id": "waltzes",
-    "name": "Waltzes",
-    "url": null,
-    "description": "Compose cover letters with power of AI in just a few seconds",
-    "logo": "waltzes",
-    "source": "https://github.com/umairjibran/waltzes"
-  },
-  {
-    "id": "puppydog-pb",
-    "name": "PuppyDog.io",
-    "url": "https://www.puppydog.io",
-    "description": "Create hyper-personalized product demos for your customers in seconds",
-    "logo": "puppydog",
+    "id": "simpli-human",
+    "name": "Simpli Human",
+    "url": "https://simplihuman.com",
+    "description": "Tools for emotional well-being and mindfulness.",
+    "logo": "simpli-human",
     "source": null
   },
   {
-    "id": "meraid-pb",
-    "name": "MeraID",
-    "url": "https://www.meraid.pk",
-    "description": "meraID is Pakistan's first e-identity mobile application",
-    "logo": "meraid",
+    "id": "ats-killer",
+    "name": "ATS Killer",
+    "url": "https://atskiller.com",
+    "description": "Helping job seekers optimize resumes for ATS.",
+    "logo": "ats-killer",
     "source": null
   },
   {
-    "id": "afterwokr-pb",
-    "name": "Afterwork",
-    "url": "https://www.goafterwork.com",
-    "description": "An AI powered platform that helps companies plan events at scale",
-    "logo": "afterwork",
-    "source": null
-  },
-  {
-    "id": "alpha",
-    "name": "Alpha",
-    "url": "https://alpha.solenova.umairjibran.com/",
-    "description": "Browser addon to boost productivity by blocking distractions",
-    "logo": "alpha",
-    "source": null
-  },
-  {
-    "id": "gamma",
-    "name": "Gamma",
-    "url": "https://gamma.solenova.umairjibran.com/",
-    "description": "An action to enable developers ship their code with ease",
-    "logo": "gamma",
-    "source": "https://github.com/solenova-tech/gamma"
-  },
-  {
-    "logo": "mavencery",
-    "id": "mavencery-pb",
+    "id": "mavencery",
     "name": "Mavencery",
-    "url": "http://www.mavencery.com/",
-    "description": "Enhances online shopping with coupons and personalized suggestions",
+    "url": "https://mavencery.com",
+    "description": "Grocery shopping with smart suggestions and coupons.",
+    "logo": "mavencery",
     "source": null
   },
   {
-    "logo": "dsm",
-    "id": "MDEwOlJlcG9zaXRcnkyNDsU0NjcyNzQ=",
-    "name": "Drive Safe Medicals",
-    "url": "https://www.drivesafemedicals.co.uk",
-    "description": "Drive Safe Medicals eases drivers to administer their medicals",
-    "source": "https://github.com/Drive-Safe-Medicals/Drive-Safe-Medicals.github.io"
+    "id": "caremerge",
+    "name": "Caremerge",
+    "url": "https://caremerge.com",
+    "description": "Enhancing communication in senior living communities.",
+    "logo": "caremerge",
+    "source": null
   },
   {
-    "logo": "tfp",
-    "id": "MDEwOlJlcG934536cnkyNzM1MTI1NTE=",
-    "name": "Tameer Foundation Pakistan",
-    "url": "https://www.tameerfoundationpakistan.org",
-    "description": "Tameer is a non profit working for the betterment of Pakistan",
+    "id": "aging-choices",
+    "name": "Aging Choices",
+    "url": "https://www.agingchoices.com",
+    "description": "Senior living and care matching platform.",
+    "logo": "aging-choices",
+    "source": null
+  },
+  {
+    "id": "monster-pool",
+    "name": "Monster Pool",
+    "url": "https://www.monsterspool.com",
+    "description": "Interest-free lending within trusted groups.",
+    "logo": "monster-pool",
+    "source": null
+  },
+  {
+    "id": "kp-tourism",
+    "name": "KP Tourism",
+    "url": "https://kptourism.com",
+    "description": "Promoting travel in Khyber Pakhtunkhwa.",
+    "logo": "kp-tourism",
+    "source": null
+  },
+  {
+    "id": "medicus",
+    "name": "Medicus",
+    "url": "https://medicushcs.com",
+    "description": "Healthcare staffing and workforce management platform.",
+    "logo": "medicus",
+    "source": null
+  },
+  {
+    "id": "wysefit",
+    "name": "Wysefit",
+    "url": "https://www.linkedin.com/company/wysefit",
+    "description": "Fitness platform for adults 50+.",
+    "logo": "wysefit",
+    "source": null
+  },
+  {
+    "id": "yaad",
+    "name": "Yaad",
+    "url": "https://yaadmemorybook.com",
+    "description": "Private memory-sharing app.",
+    "logo": "yaad",
+    "source": null
+  },
+  {
+    "id": "horizon-nyc",
+    "name": "Horizon NYC",
+    "url": "https://horizonyc.com",
+    "description": "Smart motorized blinds and shades.",
+    "logo": "horizon-nyc",
+    "source": null
+  },
+  {
+    "id": "therappy",
+    "name": "Therappy",
+    "url": "https://www.linkedin.com/company/therappy",
+    "description": "Affordable mental health support.",
+    "logo": "therappy",
     "source": null
   }
 ]

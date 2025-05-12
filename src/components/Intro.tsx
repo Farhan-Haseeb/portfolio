@@ -16,7 +16,7 @@ export default function Greetings() {
     <>
       <div id="intro" className="flex flex-col gap-4 mt-4 md:mt-0">
         <h1 className={`${sacramento.className} text-6xl`}>
-          hey there, {profile.name.lastName.toLowerCase()} here!
+          hey there, {profile.name.firstName.toLowerCase()} here!
         </h1>
         <p className="text-2xl font-black">{profile.subTitle}</p>
         <p className="font-inconsolata text-lg">{parse(profile.extraInfo)}</p>

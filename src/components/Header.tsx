@@ -17,11 +17,11 @@ export default function Header() {
     </Link>,
   );
 
-  navComponents.push(
-    <Link href="/writing">
-      <span className="mr-5 cursor-pointer">Writing</span>
-    </Link>,
-  );
+  // navComponents.push(
+  //   <Link href="/writing">
+  //     <span className="mr-5 cursor-pointer">Writing</span>
+  //   </Link>,
+  // );
 
   return (
     <header className="text-gray-600 body-font sticky z-50 top-0 blurred-bg">

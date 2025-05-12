@@ -49,7 +49,7 @@ function generateRSS() {
     return {
       title: data.title,
       description: data.excerpt,
-      link: `https://umairjibran.com/blogs/${file.replace(/\.md$/, "")}`,
+      link: `https://farhanhaseeb.com/blogs/${file.replace(/\.md$/, "")}`,
       pubDate: data.date,
     };
   });
@@ -61,7 +61,7 @@ function generateRSS() {
     return {
       title: data.title,
       description: data.excerpt,
-      link: `https://umairjibran.com/case-studies/${file.replace(/\.md$/, "")}`,
+      link: `https://farhanhaseeb.com/case-studies/${file.replace(/\.md$/, "")}`,
       pubDate: data.date,
     };
   });
@@ -74,7 +74,7 @@ function generateRSS() {
     .join("");
 
   const rssFeed =
-    `<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Umair Jibran's Writings</title><link>https://umairjibran.com/writings</link><description>Latest articles from Umair Jibran's writings.</description><atom:link rel="self" href="https://umairjibran.com/rss.xml" /><language>en-us</language><lastBuildDate>${new Date().toUTCString()}</lastBuildDate>${rssItems}</channel></rss>`.trim();
+    `<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Farhan Haseeb's Writings</title><link>https://farhanhaseeb.com/writings</link><description>Latest articles from Farhan Haseeb's writings.</description><atom:link rel="self" href="https://farhanhaseeb.com/rss.xml" /><language>en-us</language><lastBuildDate>${new Date().toUTCString()}</lastBuildDate>${rssItems}</channel></rss>`.trim();
 
   fs.writeFileSync(OUTPUT_FILE, xmlFormat(rssFeed), "utf-8");
   console.log(`RSS feed generated at ${OUTPUT_FILE}`);

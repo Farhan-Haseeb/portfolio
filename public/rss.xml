@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>
+            Farhan Haseeb's Writings
+        </title>
+        <link>
+            https://farhanhaseeb.com/writings
+        </link>
+        <description>
+            Latest articles from Farhan Haseeb's writings.
+        </description>
+        <atom:link rel="self" href="https://farhanhaseeb.com/rss.xml"/>
+        <language>
+            en-us
+        </language>
+        <lastBuildDate>
+            Mon, 12 May 2025 10:35:48 GMT
+        </lastBuildDate>
+    </channel>
+</rss>

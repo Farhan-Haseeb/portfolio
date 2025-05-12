@@ -1,5 +1,5 @@
 import { Author } from "@/types/author";
-import AntdAvatar from "antd/es/avatar/avatar";
+import AntdAvatar from "antd/es/avatar";
 import { AvatarSize } from "antd/es/avatar/AvatarContext";
 import cn from "classnames";
 import Image from "next/image";

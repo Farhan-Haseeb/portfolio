@@ -1,39 +1,29 @@
 {
   "name": {
-    "firstName": "Umair",
-    "lastName": "Jibran"
+    "firstName": "Farhan",
+    "lastName": "Haseeb"
   },
-  "subTitle": "I build things for web",
-  "extraInfo": "I've spent years perfecting the art of building scalable web applications that just work. As a seasoned Backend Tech Lead at <strong><a target='_blank' class='custom-underline' href='https://www.productbox.dev'>Productbox</a></strong>, I thrive in fast-paced startups where collaboration and creativity are key. I'm passionate about harnessing the power of <strong>serverless</strong>, <strong>AWS</strong>, <strong>Node.js</strong>, and <strong>microservices</strong> to drive innovation and deliver high-quality projects. And when it comes to monitoring and observability, I'm a firm believer in the importance of tools like <strong>Grafana</strong> and <strong>Prometheus</strong> - they're essential for ensuring seamless performance and reliability. But enough about tech (for now!). When I'm not geeking behind the keyboard, you can find me lacing up my hiking boots <Image style='display: inline;' src='/assets/emojis/hiking.png' alt='Hiking' height=18 width=18 />, plotting my next chess move <Image style='display: inline;' src='/assets/emojis/chess.png' alt='Chess' height=18 width=18 />, or binge-watching Game of Thrones <Image style='display: inline;' src='/assets/emojis/iron-throne.png' alt='Iron Throne' height=18 width=18 /> (don't judge!). With a strong foundation in computer science and a drive to stay ahead of the curve, I'm excited to bring my skills to forward-thinking projects in Europe or North America. Let's build something amazing together!",
+  "subTitle": "I craft digital experiences.",
+  "extraInfo": "For years, I’ve been building <strong>scalable</strong>, <strong>high-performance web applications</strong> that not only function seamlessly but also push boundaries. As a <strong>Software Engineer</strong>, I thrive in dynamic environments where problem-solving and innovation take center stage. My expertise lies in <strong>React, Node.js, AWS, Docker, and microservices</strong>, and I’m always on the lookout for the next big challenge. <br><br> Lately, I’ve been diving deep into <strong>Large Language Models (LLMs)</strong> and AI-driven applications. Exploring how LLMs can transform software development, automate processes, and enhance user experiences is something I’m incredibly passionate about. Whether it’s integrating AI into applications or fine-tuning models for specific use cases, I’m always eager to experiment and push the limits of what’s possible. Let’s connect and create something awesome together!",
   "social": [
     {
       "name": "LinkedIn",
-      "link": "https://www.linkedin.com/in/umairjibran/",
+      "link": "https://www.linkedin.com/in/syed-farhan-haseeb/",
       "icon": "Linkedin"
     },
     {
       "name": "GitHub",
-      "link": "https://www.github.com/umairjibran/",
+      "link": "https://www.github.com/Farhan-Haseeb/",
       "icon": "GitHub"
     },
     {
-      "name": "Twitter(x)",
-      "link": "https://www.twitter.com/umairjibran7/",
-      "icon": "Twitter"
-    },
-    {
       "name": "Email",
-      "link": "mailto:me@umairjibran.com",
+      "link": "mailto:syedfarhanhaseeeb@gmail.com",
       "icon": "Mail"
-    },
-    {
-      "name": "Medium",
-      "link": "https://umairjibran.medium.com/",
-      "icon": "Type"
     }
   ],
-  "email": "me@umairjibran.com",
-  "phone": "00923120919647",
+  "email": "syedfarhanhaseeeb@gmail.com",
+  "phone": "00923125717122",
   "location": "Peshawar, Pakistan",
   "resume": "/assets/docs/resume.pdf",
   "image": "/assets/gifs/cat-programmer.gif",
