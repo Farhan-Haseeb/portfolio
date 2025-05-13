@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "standalone",
+  output: 'export',
   distDir: "build",
+  images: { unoptimized: true },
   env: {
     MAILER_API: process.env.MAILER_API,
   },
